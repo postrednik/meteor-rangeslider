@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "ion-rangeslider": {
+      "version": "2.0.13",
+      "dependencies": {
+        "jquery": {
+          "version": "2.1.4"
+        }
+      }
+    }
+  }
+}
