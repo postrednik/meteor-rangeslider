@@ -8,7 +8,7 @@ wrapper of [Ion.RangeSlider](http://ionden.com/a/plugins/ion.rangeSlider/demo.ht
 
 1. Add package to your Meteor project:
 
-        meteor add postrednik:meteor-rangeSlider
+        meteor add postrednik:meteor-rangeslider
 
 2. Start meteor
 
